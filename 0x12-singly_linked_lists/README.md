@@ -1,1 +1,1 @@
-commit of singly linked list
+commit of singly linked lists

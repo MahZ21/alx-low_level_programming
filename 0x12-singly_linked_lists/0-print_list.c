@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * print_list - print the number of elements in the linkedlist
+ * print_list - print the numbers of elements in the linkedlist
  * @h: node param
  * Return: size
  */
